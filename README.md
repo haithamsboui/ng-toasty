@@ -1,4 +1,5 @@
-# Angular 2 Toasty [![npm version](https://badge.fury.io/js/ng2-toasty.svg)](https://badge.fury.io/js/ng2-toasty) [![npm monthly downloads](https://img.shields.io/npm/dm/ng2-toasty.svg?style=flat-square)](https://www.npmjs.com/package/ng2-toasty)
+Forked from [akserg/ng2-toasty](https://github.com/akserg/ng2-toasty)
+# Angular 8 Toasty [![npm version](https://badge.fury.io/js/ng2-toasty.svg)](https://badge.fury.io/js/ng2-toasty) [![npm monthly downloads](https://img.shields.io/npm/dm/ng2-toasty.svg?style=flat-square)](https://www.npmjs.com/package/ng2-toasty)
 Angular2 Toasty component shows growl-style alerts and messages for your application.
 
 [![Build Status](https://travis-ci.org/akserg/ng2-toasty.svg?branch=master)](https://travis-ci.org/akserg/ng2-toasty) 
@@ -14,7 +15,7 @@ _Some of these APIs and Components are not final and are subject to change!_
 
 ## Installation
 ```sh
-npm install ng2-toasty --save
+npm install @haithamsboui/ng-toasty --save
 ```
 
 ## Demo
